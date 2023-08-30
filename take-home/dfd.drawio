@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T23:45:43.238Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="qbDJKGhYnFLNwkfB-sIt" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T23:54:43.656Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="vHrBPVbokFE688eit8ud" version="21.7.1" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="1114" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2981" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,8 +221,8 @@
             <Array as="points">
               <mxPoint x="827" y="520" />
               <mxPoint x="830" y="520" />
-              <mxPoint x="830" y="790" />
-              <mxPoint x="570" y="790" />
+              <mxPoint x="830" y="820" />
+              <mxPoint x="590" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -244,8 +244,18 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vu24yNfPdQX4edVaulIg-71" target="TXb7NfMCqXK5bm7FgxTj-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-3" value="ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TXb7NfMCqXK5bm7FgxTj-2">
+          <mxGeometry x="0.224" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Vu24yNfPdQX4edVaulIg-71" value="JUGADOR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="860" width="170" height="40" as="geometry" />
+          <mxGeometry x="440" y="1030" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vu24yNfPdQX4edVaulIg-74" value="APLICAR EFECTO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="840" width="120" height="80" as="geometry" />
@@ -280,6 +290,37 @@
         </mxCell>
         <mxCell id="Vu24yNfPdQX4edVaulIg-99" value="&lt;div&gt;VERIFICAR&lt;/div&gt;&lt;div&gt;INFECCIÓN&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="530" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXb7NfMCqXK5bm7FgxTj-1" target="TXb7NfMCqXK5bm7FgxTj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-11" value="ESTADO DE JUGADORES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TXb7NfMCqXK5bm7FgxTj-10">
+          <mxGeometry x="0.1167" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-1" value="&lt;div&gt;DECLARAR&lt;/div&gt;&lt;div&gt;FIN DE PARTIDA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXb7NfMCqXK5bm7FgxTj-4" target="TXb7NfMCqXK5bm7FgxTj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-6" value="CONFIRMACIÓN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TXb7NfMCqXK5bm7FgxTj-5">
+          <mxGeometry y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-4" value="&lt;div&gt;VALIDAR &lt;br&gt;&lt;/div&gt;&lt;div&gt;ESTADO&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXb7NfMCqXK5bm7FgxTj-7" target="TXb7NfMCqXK5bm7FgxTj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-7" value="&lt;u&gt;ESTADO DE LOS DEMÁS JUGADORES&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="850" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXb7NfMCqXK5bm7FgxTj-9" value="&lt;div&gt;FINALIZAR&lt;/div&gt;&lt;div&gt;PARTIDA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
