@@ -1,0 +1,13 @@
+Cuando se bifurca el caso de uso principal usar escenarios alternativos y escenarios de excepcion.
+Cada caso de uso representa un transformador.
+Actor Externo
+Simplificar notacion en las flechas - usar diccionario de datos.
+Todos los casos de uso tienen que estar en el DFD.
+En un DFD no hay tiempo, cada caso de uso es un mini-DFD.
+Los transformadores no pueden generar datos.
+
+Relacion - Partida -> Mensaje
+Relacion - Usuario -> Mensaje
+## Preguntas
+Puede haber dos partidas con el mismo nombre?
+
