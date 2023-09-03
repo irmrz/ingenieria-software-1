@@ -1,0 +1,30 @@
+# Casos de Uso
+
+1. Crear partida
+2. Ingresar a partida
+
+Nota: Ya dentro de la partida asumimos que el jugador se encuentra en su turno para jugar. El DFD muestra el data flow entre ambos jugadores, el que juega y el adyacente en la posición que se está jugando.
+
+### Turno normal
+3. Robar 1 carta del mazo y añádela a tu mano.
+4. La carta robada es de pánico.
+5. La carta robada es aléjate.
+6. Intercambio de cartas.
+7. Cambio de lugar.
+8. Enviar un mensaje por el chat.
+9. El jugador se defiende de un ataque.
+10. Jugar carta Contagio.
+11. Jugar carta Acción.
+12. Jugar carta Defensa.
+13. Jugar carta Obstaculo.
+14. Jugar carta Pánico.
+15. Descartar una carta.
+
+
+### Eliminacion
+16. La cosa tiene el lanzallamas en su mano, los otros jugadores se dan cuenta.
+17. Eliminar a otro jugador.
+
+### Fin de la partida
+18. La cosa es eliminada.
+19. La cosa declara que no quedan humanos.

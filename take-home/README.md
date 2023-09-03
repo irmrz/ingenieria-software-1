@@ -13,3 +13,4 @@
 - Cuando los jugadores se encuentran dentro del lobby, podrán abandonar la partida, siempre y cuando no se haya unido la cantidad minima de jugadores especificada por el creador. Luego de que éste presenta esa cantidad minima, nadie puede abandonar la sala.  
 
 - Una vez iniciada la partida nadie puede abandonar.  
+- El jugador que sea la Cosa tendrá la opción de declarar que ya no quedan humanos.  
