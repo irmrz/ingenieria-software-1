@@ -1,0 +1,16 @@
+. Caso de uso #: 2
+. Actor Primario: Usuario 
+. Precondición: Ninguna
+. Escenario exitoso principal:
+    1. El usuario ingresa al sitio web.
+    2. El sistema le muestra las partidas existentes (disponibles).
+    3. El usuario elige y se une a alguna de esas partidas.
+    4. El sistema le muestra el lobby con los demás jugadores y le indica que debe ingrear un nombre de usuario.
+    5. El usuario ingresa su nombre de jugador y espera a los demás jugadores.
+    6. El usuario creador comienza la partida.
+. Escenarios excepcionales:
+    3.i     Si la partida es privada, el usuario ingresa la contraseña requerida.
+    3.ii.   Si ingresa mal la contraseña, no podrá unirse a la partida.
+    5.i     El usuario abandona la sala.
+    6.i.    El usuario creador sale de la sala.
+    6.ii.   La partida se cancela.

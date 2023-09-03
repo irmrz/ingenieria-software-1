@@ -1,0 +1,9 @@
+. Caso de uso #3: Robar una carta del mazo
+. Actor Primario: Jugador 
+. Precondición: Es el turno del jugador
+. Escenario exitoso principal:
+    1. El jugador saca una carta del mazo de robo.
+    2. El sistema le muestra la carta.
+    3. El jugador añade la carta a su mano.
+. Escenarios excepcionales:
+    Ninguno.

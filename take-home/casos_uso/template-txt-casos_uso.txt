@@ -1,0 +1,5 @@
+. Caso de uso #:
+. Actor Primario:
+. Precondición:
+. Escenario exitoso principal:
+. Escenarios excepcionales:

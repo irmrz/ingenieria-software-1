@@ -1,0 +1,17 @@
+. Caso de uso #1: Crear partida.
+. Actor Primario: Usuario.
+. Precondición: El usuario ya está dentro del sitio web.
+. Escenario exitoso principal: 
+    1. El usuario ingresa los datos de la partida:
+        a. Nombre de la partida.
+        b. Cantidad minima y maxima de jugadores (dentro del rango legal).
+        c. Elige si es publica o privada.
+    2. El sistema lo lleva al lobby donde esperar a los demás jugadores.
+    3. El usuario especifica su nombre a usar en la partida.
+    4. Ingresa la cantidad minima de jugadores.
+    5. El usuario da comienzo a la partida.
+    
+. Escenarios excepcionales:
+    1.c.i.  En caso de ser privada, setea la contraseña para ingresar.
+    4.i.    El usuario espera a que ingrese la cantidad maxima.
+    5.i.    El usuario comienza la partida.
