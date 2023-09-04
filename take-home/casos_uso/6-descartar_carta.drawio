@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T04:53:23.551Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.2" etag="V7XIzxQfQVe_ptWvvgaj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T04:57:38.693Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="gcs__p5as3IT6LPiEQ3e" version="21.7.2" type="github">
   <diagram name="Page-1" id="yYn4JYpeh041-EoVW6U2">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lwiGd2RidG9mzizyaXIr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lwiGd2RidG9mzizyaXIr-1" target="lwiGd2RidG9mzizyaXIr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwiGd2RidG9mzizyaXIr-4" value="CARTA ALEJATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lwiGd2RidG9mzizyaXIr-3">
+          <mxGeometry x="0.0286" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lwiGd2RidG9mzizyaXIr-1" value="&lt;div&gt;JUGADOR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lwiGd2RidG9mzizyaXIr-2" value="&lt;div&gt;DESCARTAR &lt;br&gt;&lt;/div&gt;&lt;div&gt;CARTA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lwiGd2RidG9mzizyaXIr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lwiGd2RidG9mzizyaXIr-5" target="lwiGd2RidG9mzizyaXIr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwiGd2RidG9mzizyaXIr-5" value="&lt;u&gt;MANO DEL JUGADOR&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="148" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lwiGd2RidG9mzizyaXIr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lwiGd2RidG9mzizyaXIr-7" target="lwiGd2RidG9mzizyaXIr-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="163" />
+              <mxPoint x="660" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lwiGd2RidG9mzizyaXIr-7" value="&lt;u&gt;MAZO DESCARTE&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="148" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
