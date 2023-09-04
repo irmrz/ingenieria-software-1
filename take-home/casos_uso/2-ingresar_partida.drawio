@@ -1,9 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T04:00:41.329Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.2" etag="5Q3-m1NDVNTindvBU9J6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T04:10:21.819Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Rjl7LBWVCDUlw70sXUT8" version="21.7.2" type="github">
   <diagram name="Page-1" id="mnDu_SZocQMsIwvI8Cs7">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWuy9s9MXrwHmG1w4lHj-2" target="oWuy9s9MXrwHmG1w4lHj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-5" value="NOMBRE USUARIO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWuy9s9MXrwHmG1w4lHj-4">
+          <mxGeometry x="-0.0083" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWuy9s9MXrwHmG1w4lHj-2" target="oWuy9s9MXrwHmG1w4lHj-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="360" />
+              <mxPoint x="580" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-12" value="OPCIONAL: CONTRASEÑA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWuy9s9MXrwHmG1w4lHj-11">
+          <mxGeometry x="-0.1171" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-2" value="&lt;font size=&quot;3&quot;&gt;USUARIO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWuy9s9MXrwHmG1w4lHj-3" target="oWuy9s9MXrwHmG1w4lHj-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="538" y="250" />
+              <mxPoint x="250" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-7" value="LISTA DE PARTIDAS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWuy9s9MXrwHmG1w4lHj-6">
+          <mxGeometry x="-0.0082" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-3" value="&lt;div&gt;INGRESAR AL&lt;/div&gt;&lt;div&gt;LOBBY&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWuy9s9MXrwHmG1w4lHj-8" target="oWuy9s9MXrwHmG1w4lHj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-8" value="&lt;u&gt;PARTIDAS DISPONIBLES&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="148" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
