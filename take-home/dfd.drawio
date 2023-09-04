@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T21:49:38.626Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="gM0YRwZVc8pN6blSRF2o" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T22:06:05.098Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="pY0Ju5vTMMoVnUZl7VdT" version="21.7.2" type="github">
   <diagram name="Page-1" id="eSQy44bR49oJ5Hq87goh">
-    <mxGraphModel dx="2981" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="2701" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,11 +264,8 @@
         <mxCell id="_G_yaIFvfvB89Oe3cglj-49" value="&lt;u&gt;DATOS DE PARTIDA&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="505" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_G_yaIFvfvB89Oe3cglj-53" value="DATOS PARTIDA = Nombre + Cantidad Mínima de jugadores + Cantidad máxima jugadores + EsPrivada (Contraseña) + Estado de Jugadores + Ganador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="-70" width="840" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_G_yaIFvfvB89Oe3cglj-54" value="INFO JUGADOR = Nombre + Posición en el tablero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="-110" width="300" height="30" as="geometry" />
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-53" value="DATOS PARTIDA = Nombre + Cantidad Mínima de jugadores + Cantidad máxima jugadores + EsPrivada (Contraseña) + Estado de Jugador * + Ganador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-70" width="830" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_G_yaIFvfvB89Oe3cglj-55" value="DATOS&amp;nbsp; LOBBY = Cantidad Jugadores + Nombres de Usuarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="-150" width="360" height="30" as="geometry" />
