@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T18:46:12.897Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="SYLYShwNnl6Xif2Z3MsW" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T18:51:32.619Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="QW5Zm1SSoF-XmVcwzYuI" version="21.7.2" type="github">
   <diagram name="Page-1" id="eSQy44bR49oJ5Hq87goh">
-    <mxGraphModel dx="2981" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="5103" dy="3030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,7 +440,7 @@
         <mxCell id="_G_yaIFvfvB89Oe3cglj-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G_yaIFvfvB89Oe3cglj-107" target="_G_yaIFvfvB89Oe3cglj-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_G_yaIFvfvB89Oe3cglj-147" value="CARTA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_G_yaIFvfvB89Oe3cglj-146">
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-147" value="&lt;div&gt;CARTA&lt;/div&gt;&lt;div&gt;JUGADA&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_G_yaIFvfvB89Oe3cglj-146">
           <mxGeometry x="0.2149" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -522,6 +522,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G_yaIFvfvB89Oe3cglj-163" target="_G_yaIFvfvB89Oe3cglj-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-181" value="DECLARACIÓN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_G_yaIFvfvB89Oe3cglj-180">
+          <mxGeometry x="-0.0581" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_G_yaIFvfvB89Oe3cglj-163" value="LA COSA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="525" width="120" height="60" as="geometry" />
         </mxCell>
@@ -554,6 +562,20 @@
         </mxCell>
         <mxCell id="_G_yaIFvfvB89Oe3cglj-175" value="&lt;u&gt;ESTADO JUGADOR&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-195" y="1328" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G_yaIFvfvB89Oe3cglj-179" target="_G_yaIFvfvB89Oe3cglj-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-184" value="VALIDACIÓN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_G_yaIFvfvB89Oe3cglj-183">
+          <mxGeometry x="-0.0712" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-179" value="&lt;div&gt;DECLARAR&lt;/div&gt;&lt;div&gt;FIN PARTIDA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-182" value="&lt;div&gt;FIN DE &lt;br&gt;&lt;/div&gt;&lt;div&gt;PARTIDA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="310" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
