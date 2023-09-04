@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T19:04:59.633Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Nom8gESCA6Ic4g2GVthT" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T21:49:38.626Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="gM0YRwZVc8pN6blSRF2o" version="21.7.2" type="github">
   <diagram name="Page-1" id="eSQy44bR49oJ5Hq87goh">
-    <mxGraphModel dx="3618" dy="2210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="2981" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,14 +264,14 @@
         <mxCell id="_G_yaIFvfvB89Oe3cglj-49" value="&lt;u&gt;DATOS DE PARTIDA&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="505" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_G_yaIFvfvB89Oe3cglj-53" value="DATOS PARTIDA = Nombre + Cantidad Mínima de jugadores + Cantidad máxima jugadores + EsPrivada (Contraseña) + Estado de Jugadores" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="-70" width="780" height="30" as="geometry" />
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-53" value="DATOS PARTIDA = Nombre + Cantidad Mínima de jugadores + Cantidad máxima jugadores + EsPrivada (Contraseña) + Estado de Jugadores + Ganador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="-70" width="840" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_G_yaIFvfvB89Oe3cglj-54" value="INFO JUGADOR = Nombre + Posición en el tablero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="-110" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_G_yaIFvfvB89Oe3cglj-55" value="DATOS&amp;nbsp; LOBBY = Cantidad Jugadores + Nombres de Usuarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-150" width="360" height="30" as="geometry" />
+          <mxGeometry y="-150" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_G_yaIFvfvB89Oe3cglj-56" value="DATOS JUGADOR = Nombre + Posición" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="-30" width="240" height="30" as="geometry" />
@@ -592,8 +592,17 @@
         <mxCell id="_G_yaIFvfvB89Oe3cglj-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G_yaIFvfvB89Oe3cglj-197" target="_G_yaIFvfvB89Oe3cglj-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_G_yaIFvfvB89Oe3cglj-197" value="ESTADO DE LA COSA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="80" width="150" height="30" as="geometry" />
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-197" value="&lt;u&gt;ESTADO DE LA COSA&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="75" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-199" value="Ignacio Tomas Ramirez" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G_yaIFvfvB89Oe3cglj-200" target="_G_yaIFvfvB89Oe3cglj-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-200" value="&lt;u&gt;DATOS PARTIDA&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="80" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
