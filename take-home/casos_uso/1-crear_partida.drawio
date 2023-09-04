@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T03:58:49.912Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="gO9mSaeTE5h_qwl0LzMt" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T03:59:35.770Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Lk_qsbZid2Z4vEeReKbk" version="21.7.2" type="github">
   <diagram name="Page-1" id="AYoHofWYZxN0NZMTVe19">
     <mxGraphModel dx="928" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HvV8VwSsiazUcoTgwNvh-2" value="&lt;div&gt;INGRESAR&lt;/div&gt;&lt;div&gt;AL LOBBY&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HvV8VwSsiazUcoTgwNvh-2" value="CREAR E INGRESAR AL LOBBY" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HvV8VwSsiazUcoTgwNvh-5" value="&lt;div&gt;COMENZAR &lt;br&gt;&lt;/div&gt;&lt;div&gt;PARTIDA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
