@@ -1,0 +1,8 @@
+. Caso de uso #12: Jugar Carta Pánico.
+. Actor Primario: Jugador en turno.
+. Precondición: El jugador levanto del mazo de robo una carta de pánico.
+. Escenario exitoso principal:
+    1. El jugador juega la carta.
+    2. El sistema aplica el efecto.
+    3. El jugador descarta la carta en la pila de descarte, boca abajo.
+. Escenarios excepcionales:

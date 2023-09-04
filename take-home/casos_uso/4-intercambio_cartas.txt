@@ -1,0 +1,9 @@
+. Caso de uso #4: Intercambio de cartas entre jugadores.
+. Actor Primario: Jugador 
+. Precondición: Es el turno del jugador y ya jugo o descarto cartas.
+. Escenario exitoso principal:
+    1. El jugador elige una carta Alejate de su mano.
+    2. El jugador adyacente en la dirección que se está jugando elige tambien una Alejate.
+    3. Ambos jugadores se intercambian las cartas.
+. Escenarios excepcionales:
+    3.i.    Si hay un obstaculo entre ambos jugadores no se produce el intercambio.

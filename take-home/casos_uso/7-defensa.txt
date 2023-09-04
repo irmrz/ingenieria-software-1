@@ -1,0 +1,10 @@
+. Caso de uso #7: El jugador se defiende de un ataque.
+. Actor Primario: Jugador defensa.
+. Precondición: Otro jugador ha jugado una carta de ataque en su contra.
+. Escenario exitoso principal:
+    1. Juegas la carta de defensa correspondiente al ataque del otro jugador.
+    2. El efecto de la carta del jugador atacante queda anulador.
+    3. El jugador defensor roba una carta del mazo.
+. Escenarios excepcionales:
+    3.i.    La carta robada es Panico.
+            El jugador debe robar cartas del mazo de robo hasta que alguna sea pánico.

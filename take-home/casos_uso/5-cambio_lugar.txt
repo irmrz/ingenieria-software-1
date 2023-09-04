@@ -1,0 +1,12 @@
+. Caso de uso #5: Cambio de lugar.
+. Actor Primario: Jugador.
+. Precondición: El jugador posee la carta Accion - ¡Cambio de Lugar!
+. Escenario exitoso principal:
+    1. El jugador juega la carta e indica que posicion cambiar.
+    2. Intercambia posicion con el jugador indicado, ambos conservan su mazo.
+    3. El jugador intercambia una carta con el siguiente jugador desde la nueva ubicacion.
+    4. El siguiente turno continua con el jugador al que se le intercambio la carta.
+. Escenarios excepcionales:
+    1.i.    El jugador esta bajo los efectos del alguna carta obstaculo que no le permite hacer el cambio.
+    1.ii    Descarta la carta y realiza el intercambio con el jugador adyacente.
+    1.iii   Los turnos continuan como se venían jugando.

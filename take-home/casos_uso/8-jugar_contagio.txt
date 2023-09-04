@@ -1,0 +1,8 @@
+. Caso de uso #8: Jugar carta Contagio.
+. Actor Primario: La Cosa.
+. Precondición: Ninguna.
+. Escenario exitoso principal:
+    1. La cosa intercambia esta carta con un jugador que desee infectar.
+    2. El jugador que recibe la carta se infecta.
+. Escenarios excepcionales:
+    2.i.    El Jugador juega una carta de defensa.

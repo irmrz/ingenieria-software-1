@@ -1,0 +1,10 @@
+. Caso de uso #11: Jugar Carta Obstaculo.
+. Actor Primario: Jugador en turno.
+. Precondición: Ninguna.
+. Escenario exitoso principal:
+    1. El jugador juega la carta sobre si mismo o sobre otro jugador dependiendo de la carta.
+    2. El sistema aplica el efecto al jugador sobre el que se juega.
+    3. La carta permanece en juego hasta que sea retirada por otra carta.
+    4. El jugador intercambia una carta con su jugador adyacente y la partida continua.
+. Escenarios excepcionales:
+    Ninguno.

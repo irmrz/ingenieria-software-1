@@ -7,24 +7,20 @@ Nota: Ya dentro de la partida asumimos que el jugador se encuentra en su turno p
 
 ### Turno normal
 3. Robar 1 carta del mazo y añádela a tu mano.
-4. La carta robada es de pánico.
-5. La carta robada es aléjate.
-6. Intercambio de cartas.
-7. Cambio de lugar.
-8. Enviar un mensaje por el chat.
-9. El jugador se defiende de un ataque.
-10. Jugar carta Contagio.
-11. Jugar carta Acción.
-12. Jugar carta Defensa.
-13. Jugar carta Obstaculo.
-14. Jugar carta Pánico.
-15. Descartar una carta.
-
+4. Intercambio de cartas.
+5. Cambio de lugar.
+6. Descartar una carta.
+7. El jugador se defiende de un ataque.
+8. Jugar carta Contagio.
+9. Jugar carta Acción.
+10. Jugar carta Defensa.
+11. Jugar carta Obstaculo.
+12. Jugar carta Pánico.
 
 ### Eliminacion
-16. La cosa tiene el lanzallamas en su mano, los otros jugadores se dan cuenta.
-17. Eliminar a otro jugador.
+13. La cosa tiene el lanzallamas en su mano, los otros jugadores se dan cuenta.
+14. Eliminar a otro jugador.
 
 ### Fin de la partida
-18. La cosa es eliminada.
-19. La cosa declara que no quedan humanos.
+15. La cosa es eliminada.
+16. La cosa declara que no quedan humanos.

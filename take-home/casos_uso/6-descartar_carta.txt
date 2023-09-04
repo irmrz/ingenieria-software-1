@@ -1,0 +1,9 @@
+. Caso de uso #6: Descartar una carta.
+. Actor Primario: Jugador en turno. 
+. Precondición: El jugador robo una carta Alejate del mazo de robo.
+. Escenario exitoso principal:
+    1. El jugador elige una carta Alejate de su mazo.
+    2. Esta carta no tiene que ser necesariamente la que recien levanta.
+    3. El jugador agrega la carta al mazo de descarte.
+. Escenarios excepcionales:
+    Ninguno.

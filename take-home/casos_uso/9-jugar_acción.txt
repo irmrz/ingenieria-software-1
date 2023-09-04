@@ -1,0 +1,9 @@
+. Caso de uso #9: Jugar carta acción.
+. Actor Primario: Jugador.
+. Precondición: El jugador está en su turno.
+. Escenario exitoso principal:
+    1. El jugador aplica el efecto de la carta a otro jugador o a si mismo.
+    2. El jugador descarta la carta jugada.
+    3. El jugador intercambia una carta con el jugador adyacente.
+. Escenarios excepcionales:
+    1.i.    El jugador sobre el que se pretende aplicar el efecto juega una carta de defensa.
