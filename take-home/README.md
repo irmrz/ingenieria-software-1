@@ -8,7 +8,7 @@
 
 ---
 
-### Requerimientos:
+### Requerimientos Funcionales:
 - Cuando el usuario accede al sitio, podrá tanto crear una partida como unirse a una ya existente. Para unirse a una ya existente, habrá una lista que se mostrará por pantalla todas las partidas disponibles.   
 - El usuario puede crear una partida. Al hacerlo tendrá que elegir un nombre para la misma y la cantidad máxima (no pueden ser más de 12) y mínima (no menos de 4) jugadores.  
 - Al crear una partida, la misma podrá ser pública o privada. En el caso de las privadas, deberá crear una contraseña que será necesaria para unirse a ésta. Si es pública, mientras haya lugar para otro jugador, cualquier usuario se podrá unir.  
@@ -20,3 +20,8 @@
 
 - Una vez iniciada la partida nadie puede abandonar.  
 - El jugador que sea la Cosa tendrá la opción de declarar que ya no quedan humanos.  
+
+### Requerimientos NO Funcionales:
+- El sistema debe ser lo más intuitivo posible.
+- Eficiencia.
+- Escalabilidad, ya que tendremos muchas partidas jugandose simultaneamente.
