@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T04:37:48.996Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.2" etag="kQu_BXthm1crGRvkSXQk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T04:44:51.377Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="jehAvkfCn14VdIswueDI" version="21.7.2" type="github">
   <diagram name="Page-1" id="M2DVCpskgcT_Rry9xltC">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L3UquSPzexKjcGp3oHfm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L3UquSPzexKjcGp3oHfm-1" target="L3UquSPzexKjcGp3oHfm-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-8" value="CARTA ALEJATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L3UquSPzexKjcGp3oHfm-7">
+          <mxGeometry x="-0.0012" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-1" value="&lt;div&gt;JUGADOR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L3UquSPzexKjcGp3oHfm-2" target="L3UquSPzexKjcGp3oHfm-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-17" value="CARTA ALEJATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L3UquSPzexKjcGp3oHfm-9">
+          <mxGeometry x="-0.0633" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-2" value="&lt;div&gt;JUGADOR &lt;br&gt;&lt;/div&gt;&lt;div&gt;ADYACENTE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="L3UquSPzexKjcGp3oHfm-3" target="L3UquSPzexKjcGp3oHfm-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="538" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-14" value="CARTA ALEJATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L3UquSPzexKjcGp3oHfm-13">
+          <mxGeometry x="0.0905" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="L3UquSPzexKjcGp3oHfm-3" target="L3UquSPzexKjcGp3oHfm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="622" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-16" value="CARTA ALEJATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L3UquSPzexKjcGp3oHfm-15">
+          <mxGeometry x="0.0385" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-3" value="&lt;div&gt;INTERCAMBIAR&lt;/div&gt;&lt;div&gt;CARTAS&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L3UquSPzexKjcGp3oHfm-11" target="L3UquSPzexKjcGp3oHfm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-11" value="&lt;u&gt;MANO DE LOS JUGADORES&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="128" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L3UquSPzexKjcGp3oHfm-18" target="L3UquSPzexKjcGp3oHfm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3UquSPzexKjcGp3oHfm-18" value="&lt;u&gt;OBSTACULOS&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="475" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
