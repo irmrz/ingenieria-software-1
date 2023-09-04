@@ -1,0 +1,53 @@
+. Caso de uso #1: Crear Partida
+. Actor Primario: Usuario
+. Precondición: Estar dentro del sitio web
+. Escenario exitoso principal:
+    1. El usuario ingresa los datos de la partida:
+        a. Nombre de la partida.
+        b. Cantidad minima y maxima de jugadores (dentro del rango legal).
+        c. Elige si es publica o privada.
+    2. El sistema lo lleva al lobby donde esperar a los demás jugadores.
+    3. El usuario especifica su nombre a usar en la partida.
+    4. Ingresa la cantidad minima de jugadores.
+    5. El usuario da comienzo a la partida.
+. Escenarios excepcionales:
+    1.c.i)  La partida es privada. 
+            El usuario setea la contraseña para ingresar.
+    4.i)    El usuario espera a que ingrese la cantidad maxima.
+            El usuario comienza la partida.
+
+. Caso de uso #2: Turno Completo
+. Actor Primario: Jugador en su turno
+. Precondición: Ninguna
+. Escenario exitoso principal: 
+    1. El jugador levanta una carta del mazo de robo.
+    2. El sistema le muestra la carta y la agrega a la mano del jugador.
+    3. El jugador descarta una carta Aléjate de su mano.
+    4. El sistema acepta el descarte y la agrega a la pila de descarte.
+    5. El jugador elige una carta Aléjate de su mano y se la ofrece al jugador adyacente en la dirección de juego.
+    6. El sistema valida que esta carta pueda ser intercambiada.
+    7. El jugador adyacente elige una carta Aléjate de su mano para intercambiar.
+    8. El sistema valida el intercambio.
+    9. Finaliza el turno del jugador.
+. Escenarios excepcionales:
+    3.i) La carta que el jugador levantó es de Pánico.
+            El sistema no le permite hacer algo más que jugar la carta.
+            El jugador deberá jugar la carta de Pánico inmediatamente.
+    3.ii) El jugador juega una carta Aléjate de su mano.
+            El jugador sigue las instrucciones de la carta.
+            El sistema aplica los efectos correspondientes.
+            Si el jugador sobre el que se aplican los efectos juega una carta de defensa, no se aplican los efectos.
+    5.i)  Hay un obstaculo entre el jugador y el adyacente.
+            No se intercambia ninguna carta.
+
+. Caso de uso #3: Jugar una carta de sospecha
+. Actor Primario: Jugador en su turno
+. Precondición: El jugador ya levantó una carta del mazo de robo.
+. Escenario exitoso principal:
+    1. El jugador juega la carta Sospecha sobre el jugador adyacente.
+    2. El sistema le permite elegir una carta del jugador adyacente, sin mostrarselas.
+    3. El jugador elige una carta.
+    4. El sistema se la muestra.
+    5. El jugador descarta la carta Sospecha de su mano.
+. Escenarios excepcionales:
+    Ninguno.
