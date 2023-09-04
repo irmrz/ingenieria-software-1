@@ -1,9 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T05:03:33.134Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.2" etag="Bx55Gpo1VyzUP8F3bDP1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T05:07:55.408Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="boHNDoCrmnse47AswgCE" version="21.7.2" type="github">
   <diagram name="Page-1" id="yMPR5Zr8aLbWXgJyp48I">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_i_tBixmd1OalZ8sn5dX-1" target="_i_tBixmd1OalZ8sn5dX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="480" />
+              <mxPoint x="570" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-16" value="CARTA DEFENSA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_i_tBixmd1OalZ8sn5dX-15">
+          <mxGeometry y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-1" value="JUGADOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_i_tBixmd1OalZ8sn5dX-2" target="_i_tBixmd1OalZ8sn5dX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-5" value="CARTA CONTAGIO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_i_tBixmd1OalZ8sn5dX-4">
+          <mxGeometry x="-0.0588" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-2" value="LA COSA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_i_tBixmd1OalZ8sn5dX-3" target="_i_tBixmd1OalZ8sn5dX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-14" value="INFECCION" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_i_tBixmd1OalZ8sn5dX-13">
+          <mxGeometry x="0.0222" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-3" value="&lt;div&gt;INTERCAMBIAR&lt;/div&gt;&lt;div&gt;CARTA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_i_tBixmd1OalZ8sn5dX-8" target="_i_tBixmd1OalZ8sn5dX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-8" value="&lt;u&gt;DATOS DE PARTIDA&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="158" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-10" value="DATOS DE PARTIDA += JUGADORES CONTAGIADOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_i_tBixmd1OalZ8sn5dX-12" target="_i_tBixmd1OalZ8sn5dX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-18" value="EFECTO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_i_tBixmd1OalZ8sn5dX-17">
+          <mxGeometry x="-0.573" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-12" value="APLICAR EFECTO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_i_tBixmd1OalZ8sn5dX-19" target="_i_tBixmd1OalZ8sn5dX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_i_tBixmd1OalZ8sn5dX-19" value="&lt;u&gt;DATOS JUGADOR&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
