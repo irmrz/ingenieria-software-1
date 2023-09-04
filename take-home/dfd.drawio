@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T22:21:31.960Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="VibpicgJQqMkP4d1XcsY" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T22:22:52.265Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Kd45t-y-S0bDe-YUxfFH" version="21.7.2" type="github">
   <diagram name="Page-1" id="eSQy44bR49oJ5Hq87goh">
     <mxGraphModel dx="2403" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -267,8 +267,8 @@
         <mxCell id="_G_yaIFvfvB89Oe3cglj-53" value="DATOS PARTIDA = Nombre + Cantidad Mínima de jugadores + Cantidad máxima jugadores + EsPrivada (Contraseña) + Estado de Jugador * + Ganador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-560" y="2080" width="830" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_G_yaIFvfvB89Oe3cglj-55" value="DATOS&amp;nbsp; LOBBY = Cantidad Jugadores + Nombres de Usuarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="2040" width="360" height="30" as="geometry" />
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-55" value="DATOS&amp;nbsp; LOBBY = Cantidad Jugadores en la Sala + Nombres de Usuarios + DATOS DE PARTIDA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="2040" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_G_yaIFvfvB89Oe3cglj-56" value="DATOS JUGADOR = Nombre + Posición" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-560" y="2120" width="240" height="30" as="geometry" />
