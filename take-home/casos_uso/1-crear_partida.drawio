@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T04:17:07.659Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="ITvD_f-bsVc9LtlbaV54" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T04:29:43.625Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="qt05YZ2V1wE1nlC0sDPB" version="21.7.2" type="github">
   <diagram name="Page-1" id="AYoHofWYZxN0NZMTVe19">
     <mxGraphModel dx="928" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -55,16 +55,17 @@
         <mxCell id="HvV8VwSsiazUcoTgwNvh-5" value="&lt;div&gt;COMENZAR &lt;br&gt;&lt;/div&gt;&lt;div&gt;PARTIDA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HvV8VwSsiazUcoTgwNvh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvV8VwSsiazUcoTgwNvh-11" target="HvV8VwSsiazUcoTgwNvh-2">
+        <mxCell id="HvV8VwSsiazUcoTgwNvh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvV8VwSsiazUcoTgwNvh-16" target="HvV8VwSsiazUcoTgwNvh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HvV8VwSsiazUcoTgwNvh-13" value="&lt;div&gt;DATOS&lt;/div&gt;&lt;div&gt;USUARIOS&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HvV8VwSsiazUcoTgwNvh-12">
-          <mxGeometry x="-0.0479" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="HvV8VwSsiazUcoTgwNvh-16" value="&lt;u&gt;DATOS USUARIOS&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="138" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HvV8VwSsiazUcoTgwNvh-11" value="USUARIOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="HvV8VwSsiazUcoTgwNvh-18" value="DATOS PARTIDA = Nombre + Cantidad Mínima de jugadores + Cantidad máxima jugadores + EsPrivada (Contraseña)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvV8VwSsiazUcoTgwNvh-19" value="INFO LOBBY = Cantidad Jugadores + Nombres de Usuarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="568" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
