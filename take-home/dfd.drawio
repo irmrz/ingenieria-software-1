@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T12:22:25.685Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="7TqLrOTe0976b1ZjvNIX" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T12:25:02.301Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Mu6eIdf2WLeopU5Mpv0N" version="21.7.2" type="github">
   <diagram name="Page-1" id="eSQy44bR49oJ5Hq87goh">
     <mxGraphModel dx="1311" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -331,6 +331,14 @@
         <mxCell id="_G_yaIFvfvB89Oe3cglj-95" value="&lt;div&gt;CARTA&lt;/div&gt;&lt;div&gt;ALEJATE&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_G_yaIFvfvB89Oe3cglj-94">
           <mxGeometry x="-0.0087" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G_yaIFvfvB89Oe3cglj-93" target="_G_yaIFvfvB89Oe3cglj-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G_yaIFvfvB89Oe3cglj-131" value="CARTA DEFENSA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_G_yaIFvfvB89Oe3cglj-130">
+          <mxGeometry x="-0.0127" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_G_yaIFvfvB89Oe3cglj-93" value="&lt;div&gt;JUGADOR&lt;/div&gt;&lt;div&gt;ADYACENTE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
