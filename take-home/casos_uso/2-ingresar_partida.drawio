@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T04:16:14.994Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="PKCsUfoI_FcXmmDPnWun" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T04:32:02.828Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="DMiqrZNOsbK19aNO4EcR" version="21.7.2" type="github">
   <diagram name="Page-1" id="mnDu_SZocQMsIwvI8Cs7">
     <mxGraphModel dx="1114" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -82,6 +82,14 @@
         <mxCell id="oWuy9s9MXrwHmG1w4lHj-13" value="&lt;div&gt;MOSTRAR&lt;/div&gt;&lt;div&gt;LOBBY&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="430" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWuy9s9MXrwHmG1w4lHj-18" target="oWuy9s9MXrwHmG1w4lHj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-26" value="&lt;div&gt;INFO&lt;/div&gt;&lt;div&gt;JUGADOR&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWuy9s9MXrwHmG1w4lHj-25">
+          <mxGeometry x="-0.1368" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oWuy9s9MXrwHmG1w4lHj-18" value="&lt;div&gt;COMENZAR&lt;/div&gt;&lt;div&gt;PARTIDA&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="260" width="120" height="80" as="geometry" />
         </mxCell>
@@ -95,6 +103,12 @@
         </mxCell>
         <mxCell id="oWuy9s9MXrwHmG1w4lHj-21" value="&lt;div&gt;USUARIO &lt;br&gt;&lt;/div&gt;&lt;div&gt;CREADOR&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-24" value="JUGADOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWuy9s9MXrwHmG1w4lHj-28" value="INFO JUGADOR = Nombre + Posición en el tablero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="688" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
